@@ -1,5 +1,5 @@
 # Notes:
-### Collection of my interactive notes for courses I'm going through
+### Consolidating notes from courses.
 
 * Coursera Machine Learning
 * Treehouse Python Techdegree
